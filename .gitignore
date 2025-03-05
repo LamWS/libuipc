@@ -14,7 +14,7 @@ build/
 output/
 vcpkg_installed/
 .vscode/
-
+.idea/
 __pycache__
 .pytest_cache
 
@@ -30,3 +30,4 @@ bin/
 .cache/
 /.clangd
 
+cmake-build-release
